@@ -1,4 +1,4 @@
-<h1 align="center"> ### Hi there, my name is Jonatan Paiva 👋 </h1>
+<h1 align="center"> Hi there, my name is Jonatan Paiva 👋 </h1>
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/jonatan-de-castro-santos-paiva-ba1954160/">
